@@ -1,0 +1,11 @@
+[
+  {
+    "version": "v20260927_213906",
+    "model_name": "DT",
+    "model_path": "iris_ultra\\models\\DT_v20260927_213906.pkl",
+    "accuracy": 1.0,
+    "features_count": 35,
+    "trained_at": "2026-09-27T21:39:06.695094",
+    "stage": "production"
+  }
+]
